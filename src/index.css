@@ -1,0 +1,14 @@
+
+
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url('../src/assets/fonts/Montserrat-VariableFont_wght.ttf');
+  
+}
+
+@import "tailwindcss";
+
+@theme{
+  --font-Montserrat : Montserrat, "sans-serif";
+}
