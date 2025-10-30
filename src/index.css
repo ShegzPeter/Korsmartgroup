@@ -1,6 +1,3 @@
-
-
-
 @font-face {
   font-family: 'Montserrat';
   src: url('../src/assets/fonts/Montserrat-VariableFont_wght.ttf');
@@ -12,3 +9,4 @@
 @theme{
   --font-Montserrat : Montserrat, "sans-serif";
 }
+
